@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style2.css">
+  <title>ACCESS DENIED</title>
+</head>
+<body>
+<h1 class = "title"> ACCESS DENIED </h1>
+		<ul id="navbar">
+		    <li><a href = "http://www.cs.okstate.edu/~geralab/">CS HOME</a></li>
+			<li><a href = "http://www.cs.okstate.edu/~geralab/Project/Login.php">PROJECT LOGIN</a></li>
+		</ul>
+</body>
+</html>
